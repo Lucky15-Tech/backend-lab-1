@@ -20,5 +20,6 @@ This repository contains all laboratory exercises and assignments for the Backen
 
 ## Lab 01 Quick Links
 
+- [Live Link (Active)](https://11f13af487c9d4.lhr.life)
 - [Lab 01 Documentation & Code](./lab-01/)
 - [Lab 01 Screenshots](./lab-01/screenshots/)
